@@ -20,7 +20,7 @@ This project demonstrates a simple **Click Counter** system using an **Arduino b
 ## 📺 Demonstration Video:
 Watch the **Click Counter (Up and Down)** project in action!
 
-🔗 [Click here to watch the demonstration on LinkedIn](wait)
+🔗 [Click here to watch the demonstration on LinkedIn](https://www.linkedin.com/posts/ramu-roy-b780382b7_arduino-electronicsfun-embeddedsystems-activity-7300746569916530688-Z9XP?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEwAX4wBY70YZ3l58lvkiXtyCZcnWWrfJAA&utm_campaign=copy_link)
 
 ## 📝 Code Explanation:
 1. **Button Inputs**: The two push buttons are connected to specific pins on the Arduino board.
